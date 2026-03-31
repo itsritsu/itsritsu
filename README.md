@@ -1,4 +1,4 @@
-# 𐔌 . ⋮ Ritsx .ᐟ ֹ ₊ ꒱
+# ✦ — Hello !
 
 <p align="left">
   <img src="https://img.shields.io/badge/INFJ-6w5-83677B?style=flat-square&logo=psychology&logoColor=white" />
