@@ -12,7 +12,7 @@
 ---
 
 ### 🍀 Profile Archive
-* **Personality:** INFJ 6w5 sp/sx | Tritype 469
+* **Status:** University Student
 * **Languages:** TH / EN (Main) ✦ *a little bit* CN / JP
 
 ### 🌟 Pony Town Status
