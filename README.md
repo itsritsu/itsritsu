@@ -16,7 +16,7 @@
 * **Languages:** TH / EN (Main) ✦ *a little bit* CN / JP
 
 ### 🌟 Pony Town Status
-* **Interaction:** c+h ⋅ w2i ⋅ w2j
+* **Interaction:** Friendly ✦ c+h ⋅ w2i ⋅ w2j
 * **Rule:** Strictly **DNC** (Do Not Copy) my skins.
 * **Activity:** Mostly AFK on safe server but not offtab.
 
