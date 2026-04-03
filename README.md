@@ -16,14 +16,14 @@
 * **Languages:** TH / EN (Main) ✦ *a little bit* CN / JP
 
 ### 🌟 Pony Town Status
-* **Interaction:** c+h . w2i . w2j
+* **Interaction:** c+h ⋅ w2i ⋅ w2j
 * **Rule:** Strictly **DNC** (Do Not Copy) my skins.
 * **Activity:** Mostly AFK on safe server but not offtab.
 
 ### 🩷 Fandoms & Interests
-* **Hoyoverse:** Genshin Impact . Honkai Star Rail . Zenless Zone Zero
+* **Hoyoverse:** Genshin Impact ⋅ Honkai Star Rail ⋅ Zenless Zone Zero
 * **Fate Series:** Gilgamesh & Enkidu Enthusiast ⛓️
-* **Danmei:** MDZS . TGCF . SVSSS
+* **Danmei:** MDZS ⋅ TGCF ⋅ SVSSS
 
 ---
 
