@@ -30,9 +30,3 @@
 <p align="center">
   <code>... . . / -.-- --- ..- / - --- -- --- .-. .-. --- .--</code>
 </p>
-
----
-
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/905397106469109792?borderRadius=10px&idleMessage=Listening%20to%20the%20silent%20stars..." />
-</div>
