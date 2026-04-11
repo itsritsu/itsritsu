@@ -1,4 +1,4 @@
-# ✧ Hello ! ֹ ׅ 🌿
+# ✧ Hello ! ֹ ׅ 🪻
 
 <p align="left">
   <img src="https://img.shields.io/badge/INFJ-6w5-83677B?style=flat-square&logo=psychology&logoColor=white" />
@@ -7,7 +7,7 @@
 
 > *"Welcome to my world."*
 
-![fate-strange-fake-enkidu (1)](https://github.com/user-attachments/assets/acfb5c2c-735e-4a9b-a447-75281dcf6535)
+![flins-flins-genshin](https://github.com/user-attachments/assets/ab235911-947f-4646-9dd1-536724d486ae)
 
 ---
 
