@@ -11,7 +11,7 @@
 
 ---
 
-### 𖹭 ⋮ Profile Archive
+### 𖹭 ⋮ About Me
 * **Status:** University Student
 * **Languages:** TH / EN (Main) ✦ *a little bit* CN / JP
 
@@ -20,7 +20,7 @@
 * **Rule:** Strictly **DNC** (Do Not Copy) my skins.
 * **Activity:** Mostly AFK on safe server but not offtab.
 
-### 𖹭 ⋮ Fandoms & Interests
+### 𖹭 ⋮ Fandoms
 * **Hoyoverse:** Genshin Impact ⋅ Honkai Star Rail ⋅ Zenless Zone Zero
 * **Fate Series:** Gilgamesh & Enkidu Enthusiast ⛓️
 * **Danmei:** MDZS ⋅ TGCF ⋅ SVSSS
