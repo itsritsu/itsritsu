@@ -12,7 +12,7 @@
 ---
 
 ### 𖹭 ⋮ About Me
-* **Status:** University Student
+* **Status:** University Student (20↑)
 * **Languages:** TH / EN (Main) ✦ *a little bit* CN / JP
 
 ### 𖹭 ⋮ Pony Town Status
