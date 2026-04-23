@@ -24,6 +24,7 @@
 * **Hoyoverse:** Genshin Impact ⋅ Honkai Star Rail ⋅ Zenless Zone Zero
 * **Fate Series:** Gilgamesh & Enkidu Enthusiast ⛓️
 * **Danmei:** MDZS ⋅ TGCF ⋅ SVSSS
+* **Others:** Check my strawpage for more.
 
 ---
 
