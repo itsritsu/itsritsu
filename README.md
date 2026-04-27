@@ -1,8 +1,8 @@
 # ✦゛Helloꜝꜝ﹒∿꒷꒦
 
 <p align="left">
-  <img src="https://img.shields.io/badge/INFJ-6w5-83677B?style=flat-square&logo=psychology&logoColor=white" />
-  <img src="https://img.shields.io/badge/sp%2Fsx-469-4A5D4E?style=flat-square" />
+  <img src="https://img.shields.io/badge/INFJ-6w5-588BAE?style=flat-square&logo=psychology&logoColor=white" />
+  <img src="https://img.shields.io/badge/sp%2Fsx-469-588BAE?style=flat-square" />
 </p>
 
 > *"Welcome to my world."*
