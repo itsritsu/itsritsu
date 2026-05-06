@@ -22,7 +22,7 @@
 
 ### 𖹭 ⋮ Fandoms
 * **Hoyoverse:** Genshin Impact ⋅ Honkai Star Rail ⋅ Zenless Zone Zero
-* **Fate Series:** Gilgamesh & Enkidu Enthusiast ⛓️
+* **Fate Series:** Gilgamesh & Enkidu enthusiast ⛓️
 * **Danmei:** MDZS ⋅ TGCF ⋅ SVSSS
 * **Others:** Check my strawpage for more.
 
