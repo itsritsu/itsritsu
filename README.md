@@ -10,6 +10,7 @@
 ![flins-flins-genshin](https://github.com/user-attachments/assets/ab235911-947f-4646-9dd1-536724d486ae)
 
 ---
+![Views](https://komarev.com/ghpvc/?username=itsritsu&label=𖹭)
 
 ### 𖹭 ⋮ About Me
 * **Status:** University Student (20↑)
