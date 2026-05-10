@@ -7,7 +7,7 @@
 
 > *"Welcome to my world."*
 
-![flins-flins-genshin](https://github.com/user-attachments/assets/ab235911-947f-4646-9dd1-536724d486ae)
+<img width="374" height="211" alt="flins-flins-genshin" src="https://github.com/user-attachments/assets/f5f78bca-37e8-4ff0-883d-f5f84dc5f831" />
 
 ---
 ![Views](https://komarev.com/ghpvc/?username=itsritsu&label=𖹭)
@@ -21,14 +21,10 @@
 * **Rule:** Strictly **DNC** (Do Not Copy) my skins.
 * **Activity:** Mostly AFK on safe server but not offtab.
 
-### 𖹭 ⋮ Fandoms
-* **Hoyoverse:** Genshin Impact ⋅ Honkai Star Rail ⋅ Zenless Zone Zero
-* **Fate Series:** Gilgamesh & Enkidu enthusiast ⛓️
-* **Danmei:** MDZS ⋅ TGCF ⋅ SVSSS
-* **Others:** Check my strawpage for more.
-
 ---
 
 <p align="center">
-  <code>... . . / -.-- --- ..- / - --- -- --- .-. .-. --- .--</code>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yuhaevefrsxuvw2s7aao567rdq&cover_image=true&theme=novatorem&show_offline=false&background_color=394160&interchange=false&profanity=false&bar_color=394160&bar_color_cover=false">
+  </a>
 </p>
