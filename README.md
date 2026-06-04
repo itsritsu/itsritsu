@@ -1,25 +1,24 @@
-# ✦゛Helloꜝꜝ﹒∿꒷꒦
+<div align="center">
+  
+# ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
-<p align="left">
-  <img src="https://img.shields.io/badge/INFJ-6w5-588BAE?style=flat-square&logo=psychology&logoColor=white" />
-  <img src="https://img.shields.io/badge/sp%2Fsx-469-588BAE?style=flat-square" />
-</p>
+<br>
+  
+<img width="498" height="278" alt="fate-strange-fake-enkidu (1)" src="https://github.com/user-attachments/assets/4961435d-9b14-4140-9e8f-cdb660d0a146" />
 
-> *"Welcome to my world."*
+<br><br>
 
-<img width="374" height="211" alt="flins-flins-genshin" src="https://github.com/user-attachments/assets/f5f78bca-37e8-4ff0-883d-f5f84dc5f831" />
+‧₊˚ ⋅ ![Views](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
 
----
-![Views](https://komarev.com/ghpvc/?username=itsritsu&label=𖹭)
+</div>
 
 ### 𖹭 ⋮ About Me
-* **Status:** University Student (20↑)
-* **Languages:** TH / EN (Main) ✦ *a little bit* CN / JP
+* 20↑
+* TH / EN (Main) ✦ *a little bit* CN / JP
 
-### 𖹭 ⋮ Pony Town Status
-* **Interaction:** Friendly ✦ c+h ⋅ w2i ⋅ w2j
-* **Rule:** Strictly **DNC** (Do Not Copy) my skins.
-* **Activity:** Mostly AFK on safe server but not offtab.
+### 𖹭 ⋮ Pony Town
+* Strictly **DNC** (Do Not Copy) my skins.
+* Mostly AFK on safe server but not offtab.
 
 ---
 
