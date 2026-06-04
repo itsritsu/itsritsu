@@ -3,12 +3,20 @@
 # ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
 <br>
+
+‧₊˚ ⋅ ![Views](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
+
+<br>
   
 <img width="498" height="278" alt="fate-strange-fake-enkidu (1)" src="https://github.com/user-attachments/assets/4961435d-9b14-4140-9e8f-cdb660d0a146" />
 
-<br><br>
+<br>
 
-‧₊˚ ⋅ ![Views](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
+<p align="center">
+  <a href="https://itsritsu.atabook.org/">atabook</a>ㅤㅤㅤ┆ㅤㅤㅤ<a href="https://itsritsu.straw.page">strawpage</a>
+</p>
+
+
 
 </div>
 
