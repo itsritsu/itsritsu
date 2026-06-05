@@ -4,7 +4,7 @@
 
 <br>
 
-‧₊˚ ⋅  ‧₊˚ ⋅
+‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
 
 <br>
   
