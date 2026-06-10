@@ -8,7 +8,7 @@
 
 <br>
   
-<img width="498" height="278" alt="fate-strange-fake-enkidu1-ezgif com-overlay" src="https://github.com/user-attachments/assets/41f36f78-02b0-45e7-ba77-5a8ee7f7feca" />
+<img width="498" height="278" alt="fate-strange-fake-enkidu1-ezgif com-effects" src="https://github.com/user-attachments/assets/9e9000b3-c12c-496a-8b03-9b9f3734cdb2" />
 
 <br>
 
