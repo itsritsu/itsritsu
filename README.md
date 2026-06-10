@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <a href="https://itsritsu.atabook.org/">atabook</a>ㅤㅤㅤ┆ㅤㅤㅤ<a href="https://itsritsu.straw.page">strawpage</a>
+  <a href="https://itsritsu.atabook.org/">atabook</a>ㅤㅤㅤ┆ㅤㅤㅤ<a href="https://itsritsu.straw.page">strawpage</a>ㅤㅤㅤ┆ㅤㅤㅤ<a href="https://pronouns.cc/@itsritsu">pronouns</a>
 </p>
 
 
