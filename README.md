@@ -4,6 +4,11 @@
 
 <br>
 
+
+୧ ‧₊˚ 🌿⋅ The Enkidu of Pony Town @ <a href="https://github.com/pt-walk-of-fame">Pony Town Walk of Fame</a> ⋅ ⊹ ˚₊‧ ୨
+
+<br>
+
 ‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
 
 <br>
