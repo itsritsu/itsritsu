@@ -27,6 +27,8 @@
 
 <br>
 
+<br>
+
 <p align="center">
   <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
   &nbsp; ┊ &nbsp;
