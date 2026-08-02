@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://github.com/pt-walk-of-fame">Pony Town Walk of Fame</a>ㅤ┆ㅤ<a href="https://github.com/pt-hall-of-media">PonyTowns Hall of Media</a>
+[@ Walk of Fame](https://github.com/pt-walk-of-fame/pt-walk-of-fame#:~:text=@itsritsu) ⋅ [@ Title Town](https://github.com/title-town/title-town#:~:text=@itsritsu)
 
 <br>
 
