@@ -10,11 +10,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series)"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=130&height=30&lines=Walk+of+Fame" /></a>
+  <a href="https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series)"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=130&height=30&lines=Walk+of+Fame" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://github.com/pt-hall-of-media#:~:text=itsritsu%20is%20PonyTowns%20Enkidu%20!"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=130&height=30&lines=Hall+of+Media" /></a>
+  <a href="https://github.com/pt-hall-of-media#:~:text=itsritsu%20is%20PonyTowns%20Enkidu%20!"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=130&height=30&lines=Hall+of+Media" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://github.com/title-town#:~:text=%40itsritsu%20%3A%20ponytown%27s%20enkidu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=110&height=30&lines=Title+Town" /></a>
+  <a href="https://github.com/title-town#:~:text=%40itsritsu%20%3A%20ponytown%27s%20enkidu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=Title+Town" /></a>
 </p>
 
 <br>
@@ -30,11 +30,11 @@
 <br>
 
 <p align="center">
-  <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
+  <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://itsritsu.straw.page/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=110&height=30&lines=strawpage" /></a>
+  <a href="https://itsritsu.straw.page/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=strawpage" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://pronouns.cc/@itsritsu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=110&height=30&lines=pronouns" /></a>
+  <a href="https://pronouns.cc/@itsritsu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=pronouns" /></a>
 </p>
 
 
