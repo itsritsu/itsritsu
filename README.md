@@ -9,7 +9,13 @@
 
 <br>
 
-[Walk of Fame](https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series))ㅤ┆ㅤ[Hall of Media](https://github.com/pt-hall-of-media#:~:text=itsritsu%20is%20PonyTowns%20Enkidu%20!)ㅤ┆ㅤ[Title Town](https://github.com/title-town#:~:text=%40itsritsu%20%3A%20ponytown%27s%20enkidu)
+<p align="center">
+  <a href="https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series)"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=130&height=30&lines=Walk+of+Fame" /></a>
+  &nbsp; ┊ &nbsp;
+  <a href="https://github.com/pt-hall-of-media#:~:text=itsritsu%20is%20PonyTowns%20Enkidu%20!"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=130&height=30&lines=Hall+of+Media" /></a>
+  &nbsp; ┊ &nbsp;
+  <a href="https://github.com/title-town#:~:text=%40itsritsu%20%3A%20ponytown%27s%20enkidu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=81C784&center=true&vcenter=true&width=110&height=30&lines=Title+Town" /></a>
+</p>
 
 <br>
 
