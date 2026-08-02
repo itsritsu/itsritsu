@@ -9,7 +9,7 @@
 
 <br>
 
-[@ Walk of Fame](https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series))ㅤ┆ㅤ[@ Title Town](https://github.com/title-town/title-town#:~:text=@itsritsu)
+[Walk of Fame](https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series))ㅤ┆ㅤ[Hall of Media](https://github.com/pt-hall-of-media#:~:text=itsritsu%20is%20PonyTowns%20Enkidu%20!)ㅤ┆ㅤ[Title Town](https://github.com/title-town#:~:text=%40itsritsu%20%3A%20ponytown%27s%20enkidu)
 
 <br>
 
