@@ -16,7 +16,7 @@
   &nbsp; ┊ &nbsp;
   <a href="https://github.com/ponychievements#:~:text=%40itsritsu%20is%20ponytown%E2%80%99s%20enkidu%20(fate%20series)%20!"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=11&pause=1000&color=8da750&center=true&vcenter=true&width=100&height=20&lines=Ponychievements" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://github.com/pt-medals#:~:text=itsritsu,!"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=11&pause=1000&color=8da750&center=true&vcenter=true&width=65&height=20&lines=PT+Medals" /></a>
+  <a href="https://github.com/pt-medals#:~:text=%E2%B8%9D-,itsritsu,-%3A"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=11&pause=1000&color=8da750&center=true&vcenter=true&width=65&height=20&lines=PT+Medals" /></a>
 </p>
 
 <br>
