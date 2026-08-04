@@ -5,7 +5,7 @@
 <br>
 
 
-୧ ‧₊˚ ⊹ ⋅ The Enkidu of Pony Town ⋅ ⊹ ˚₊‧ ୨
+୧ ‧₊˚ ⊹ ⋅ The Pony Town's Enkidu ⋅ ⊹ ˚₊‧ ୨
 
 <p align="center">
   <a href="https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series)"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=11&pause=1000&color=8da750&center=true&vcenter=true&width=85&height=20&lines=Walk+of+Fame" /></a>
