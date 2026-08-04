@@ -2,8 +2,6 @@
   
 # ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
-<br>
-
 ### ୧ ‧₊˚ ⊹ ⋅ The Pony Town's Enkidu ⋅ ⊹ ˚₊‧ ୨
 
 <p align="center">
