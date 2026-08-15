@@ -48,7 +48,7 @@
 
 ### 𖹭 ⋮ Pony Town
 * Strictly **DNC** (Do Not Copy) my skins.
-* Mostly AFK on safe server but not offtab.
+* Mostly AFK but not offtab.
 
 ---
 
