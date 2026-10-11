@@ -43,7 +43,7 @@
 </div>
 
 ### 𖹭 ⋮ About Me
-* 20 y (Minors please IWC)
+* 20 Y
 * TH / EN (Main) ✦ *a little bit* CN / JP
 
 ### 𖹭 ⋮ Pony Town
