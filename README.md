@@ -42,11 +42,11 @@
 
 </div>
 
-### 𖹭 ⋮ About Me
+### 𖹭 ⋮ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 * 20 Y
-* TH / EN (Main) ✦ *a little bit* CN / JP
+* TH / EN (Main) ✦ a little bit CN / JP
 
-### 𖹭 ⋮ Pony Town
+### 𖹭 ⋮ 𝐏𝐨𝐧𝐲 𝐓𝐨𝐰𝐧
 * Strictly **DNC** (Do Not Copy) my skins.
 * Mostly AFK but not offtab.
 
