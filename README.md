@@ -2,7 +2,17 @@
   
 # ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
+<br>
+
+‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
+
+<br>
+
+<img width="1500" height="500" alt="ไม่มีชื่อ 77_20261018003011" src="https://github.com/user-attachments/assets/200b26ae-1d97-4587-af51-33147f65f47f" />
+
 #### ˚₊‎ ‧‎ ꒰‎ ‎ ‎ 𝚃𝚑𝚎 𝙿𝚘𝚗𝚢 𝚃𝚘𝚠𝚗'𝚜 𝙴𝚗𝚔𝚒𝚍𝚞‎ ‎ ‎ ꒱‎ ‧‎ ₊˚
+
+<br>
 
 <p align="center">
   <a href="https://github.com/pt-walk-of-fame#:~:text=itsritsu%20is%20pony%20town%27s%20ENKIDU%20(fate%20series)"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=95&height=22&lines=Walk+of+Fame" /></a>
@@ -19,10 +29,6 @@
 </p>
 
 <br>
-
-‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
-
-<br>
   
 <img width="1920" height="1080" alt="ไม่มีชื่อ 70_20261013070400" src="https://github.com/user-attachments/assets/0d9a5396-9063-45c9-9582-b102a0eefd77" />
 
@@ -30,25 +36,21 @@
 
 <br>
 
+<br>
+
 <p align="center">
-  <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
+  <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://itsritsu.straw.page/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=strawpage" /></a>
+  <a href="https://itsritsu.straw.page/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=strawpage" /></a>
   &nbsp; ┊ &nbsp;
-  <a href="https://pronouns.cc/@itsritsu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=pronouns" /></a>
+  <a href="https://pronouns.cc/@itsritsu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=pronouns" /></a>
 </p>
 
-
+<br>
 
 </div>
 
-### 𖹭 ⋮ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-* 20 Y
-* TH / EN (Main) ✦ a little bit CN / JP
-
-### 𖹭 ⋮ 𝐏𝐨𝐧𝐲 𝐓𝐨𝐰𝐧
-* Strictly **DNC** (Do Not Copy) my skins.
-* Mostly AFK but not offtab.
+<img width="1500" height="500" alt="ไม่มีชื่อ 77_20261018003054" src="https://github.com/user-attachments/assets/48b7ed73-7213-460f-8d55-dcd7f14bdac5" />
 
 ---
 
