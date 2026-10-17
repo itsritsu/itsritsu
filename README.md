@@ -4,12 +4,6 @@
 
 <br>
 
-‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
-
-<br>
-
-<img width="1500" height="500" alt="ไม่มีชื่อ 77_20261018003011" src="https://github.com/user-attachments/assets/200b26ae-1d97-4587-af51-33147f65f47f" />
-
 #### ˚₊‎ ‧‎ ꒰‎ ‎ ‎ 𝚃𝚑𝚎 𝙿𝚘𝚗𝚢 𝚃𝚘𝚠𝚗'𝚜 𝙴𝚗𝚔𝚒𝚍𝚞‎ ‎ ‎ ꒱‎ ‧‎ ₊˚
 
 <br>
@@ -29,10 +23,12 @@
 </p>
 
 <br>
-  
-<img width="1920" height="1080" alt="ไม่มีชื่อ 70_20261013070400" src="https://github.com/user-attachments/assets/0d9a5396-9063-45c9-9582-b102a0eefd77" />
+
+‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
 
 <br>
+  
+<img width="1920" height="1080" alt="ไม่มีชื่อ 70_20261013070400" src="https://github.com/user-attachments/assets/0d9a5396-9063-45c9-9582-b102a0eefd77" />
 
 <br>
 
@@ -46,11 +42,7 @@
   <a href="https://pronouns.cc/@itsritsu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=pronouns" /></a>
 </p>
 
-<br>
-
 </div>
-
-<img width="1500" height="500" alt="ไม่มีชื่อ 77_20261018003054" src="https://github.com/user-attachments/assets/48b7ed73-7213-460f-8d55-dcd7f14bdac5" />
 
 ---
 
