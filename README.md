@@ -37,9 +37,13 @@
 <br>
 
 <p align="center">
-  <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
-  &nbsp; ┊ &nbsp;
-  <a href="https://itsritsu.straw.page/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=strawpage" /></a>
+  <a href="https://itsritsu.atabook.org/">
+    <img src="https://cdn.corenexis.com/f/NIKJkD8m6EQ.png" width="120" alt="Atabook Guestbook" />
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://itsritsu.straw.page/">
+    <img src="https://cdn.corenexis.com/f/D5ltjtGdUbU.png" width="120" alt="Strawpage" />
+  </a>
 </p>
 
 </div>
