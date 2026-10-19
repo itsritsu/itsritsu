@@ -25,10 +25,6 @@
 </p>
 
 <br>
-
-‧₊˚ ⋅ ![](https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750) ‧₊˚ ⋅
-
-<br>
   
 <img width="900" height="300" alt="ไม่มีชื่อ 77_20261018003011" src="https://github.com/user-attachments/assets/b73a2651-75f4-44bd-9798-87cb88a71370" />
 
@@ -38,11 +34,13 @@
 
 <p align="center">
   <a href="https://itsritsu.atabook.org/">
-    <img src="https://cdn.corenexis.com/f/NIKJkD8m6EQ.png" width="120" alt="Atabook Guestbook" />
+    <img align="middle" src="https://cdn.corenexis.com/f/NIKJkD8m6EQ.png" width="120" alt="Atabook Guestbook" />
   </a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750" alt="visitors" /> ‧₊˚ ⋅
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itsritsu.straw.page/">
-    <img src="https://cdn.corenexis.com/f/D5ltjtGdUbU.png" width="120" alt="Strawpage" />
+    <img align="middle" src="https://cdn.corenexis.com/f/D5ltjtGdUbU.png" width="120" alt="Strawpage" />
   </a>
 </p>
 
