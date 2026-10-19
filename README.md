@@ -36,8 +36,6 @@
   <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=atabook" /></a>
   &nbsp; ┊ &nbsp;
   <a href="https://itsritsu.straw.page/"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=strawpage" /></a>
-  &nbsp; ┊ &nbsp;
-  <a href="https://pronouns.cc/@itsritsu"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Georgia&size=12&pause=1000&color=8da750&center=true&vcenter=true&width=110&height=30&lines=pronouns" /></a>
 </p>
 
 </div>
