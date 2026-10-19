@@ -26,7 +26,7 @@
 
 <br>
   
-<img width="1920" height="1080" alt="ไม่มีชื่อ 70_20261013070400" src="https://github.com/user-attachments/assets/0d9a5396-9063-45c9-9582-b102a0eefd77" />
+<img width="1500" height="500" alt="ไม่มีชื่อ 77_20261018003011" src="https://github.com/user-attachments/assets/b73a2651-75f4-44bd-9798-87cb88a71370" />
 
 <br>
 
