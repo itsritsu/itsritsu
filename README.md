@@ -2,6 +2,10 @@
   
 # ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
+<p align="center">
+  <img src="https://cdn.corenexis.com/f/gr2vjFdZdxZ.png" width="1500" alt="header decoration" />
+</p>
+
 #### ˚₊‎ ‧‎ ꒰‎ ‎ ‎ 𝚃𝚑𝚎 𝙿𝚘𝚗𝚢 𝚃𝚘𝚠𝚗'𝚜 𝙴𝚗𝚔𝚒𝚍𝚞‎ ‎ ‎ ꒱‎ ‧‎ ₊˚
 
 <br>
@@ -39,6 +43,10 @@
 </p>
 
 </div>
+
+<p align="center">
+  <img src="https://cdn.corenexis.com/f/3XmE6jTqxQA.png" width="1500" alt="header decoration" />
+</p>
 
 ---
 
