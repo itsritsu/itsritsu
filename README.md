@@ -36,9 +36,9 @@
   <a href="https://itsritsu.atabook.org/">
     <img align="middle" src="https://cdn.corenexis.com/f/NIKJkD8m6EQ.png" width="120" alt="Atabook Guestbook" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   ‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750" alt="visitors" /> ‧₊˚ ⋅
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://itsritsu.straw.page/">
     <img align="middle" src="https://cdn.corenexis.com/f/D5ltjtGdUbU.png" width="120" alt="Strawpage" />
   </a>
