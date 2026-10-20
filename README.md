@@ -34,13 +34,13 @@
 
 <p align="center">
   <a href="https://itsritsu.atabook.org/">
-    <img align="middle" src="https://cdn.corenexis.com/f/NIKJkD8m6EQ.png" width="80" alt="Atabook Guestbook" />
+    <img align="middle" src="https://cdn.corenexis.com/f/tuTw702z33B.png" width="150" alt="Atabook Guestbook" />
   </a>
   &nbsp;&nbsp;
   ‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750" alt="visitors" /> ‧₊˚ ⋅
   &nbsp;&nbsp;
   <a href="https://itsritsu.straw.page/">
-    <img align="middle" src="https://cdn.corenexis.com/f/D5ltjtGdUbU.png" width="80" alt="Strawpage" />
+    <img align="middle" src="https://cdn.corenexis.com/f/OlZOwA0QFPf.png" width="150" alt="Strawpage" />
   </a>
 </p>
 
