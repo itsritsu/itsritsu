@@ -3,7 +3,7 @@
 # ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
 <p align="center">
-  <img src="https://cdn.corenexis.com/f/gr2vjFdZdxZ.png" width="750" alt="header decoration" />
+  <img src="https://cdn.corenexis.com/f/gr2vjFdZdxZ.png" width="900" alt="header decoration" />
 </p>
 
 #### ˚₊‎ ‧‎ ꒰‎ ‎ ‎ 𝚃𝚑𝚎 𝙿𝚘𝚗𝚢 𝚃𝚘𝚠𝚗'𝚜 𝙴𝚗𝚔𝚒𝚍𝚞‎ ‎ ‎ ꒱‎ ‧‎ ₊˚
@@ -26,7 +26,7 @@
 
 <br>
   
-<img width="750" height="250" alt="ไม่มีชื่อ 77_20261018003011" src="https://github.com/user-attachments/assets/b73a2651-75f4-44bd-9798-87cb88a71370" />
+<img width="900" height="300" alt="ไม่มีชื่อ 77_20261018003011" src="https://github.com/user-attachments/assets/b73a2651-75f4-44bd-9798-87cb88a71370" />
 
 <br>
 
@@ -47,7 +47,7 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn.corenexis.com/f/3XmE6jTqxQA.png" width="750" alt="header decoration" />
+  <img src="https://cdn.corenexis.com/f/3XmE6jTqxQA.png" width="900" alt="header decoration" />
 </p>
 
 ---
