@@ -59,6 +59,7 @@
 </p>
 
 
-<img width="270" height="250" alt="fgo (1)" src="https://github.com/user-attachments/assets/586c1a58-e9c6-463e-af51-cf105d3e08b8" />
-<img width="270" height="250" alt="fgo" src="https://github.com/user-attachments/assets/00080cbe-1eec-443b-827f-bc8661020d9c" />
+<img width="200" height="200" alt="fgo" src="https://github.com/user-attachments/assets/f6fd2a33-53a0-44e3-abfc-3764d0f440fd" />
+<img width="200" height="200" alt="fgo (1)" src="https://github.com/user-attachments/assets/fcf2aace-571c-46d9-9ccb-96c1ec48c4b8" />
+
 
