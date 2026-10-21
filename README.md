@@ -57,3 +57,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yuhaevefrsxuvw2s7aao567rdq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=8da750&bar_color_cover=false">
   </a>
 </p>
+
+---
+
+<img width="270" height="270" alt="fgo" src="https://github.com/user-attachments/assets/00080cbe-1eec-443b-827f-bc8661020d9c" />
+<img width="270" height="270" alt="fgo (1)" src="https://github.com/user-attachments/assets/586c1a58-e9c6-463e-af51-cf105d3e08b8" />
+
