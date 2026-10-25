@@ -33,15 +33,9 @@
 <br>
 
 <p align="center">
-  <a href="https://itsritsu.atabook.org/">
-    <img align="middle" src="https://cdn.corenexis.com/f/JTOs7SFs3ej.png" width="80" alt="Atabook Guestbook" />
-  </a>
-  &nbsp;&nbsp;
-  ‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750" alt="visitors" /> ‧₊˚ ⋅
-  &nbsp;&nbsp;
-  <a href="https://itsritsu.straw.page/">
-    <img align="middle" src="https://cdn.corenexis.com/f/dbC6sQk8aeJ.png" width="80" alt="Strawpage" />
-  </a>
+  <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://cdn.corenexis.com/f/JTOs7SFs3ej.png" width="80" alt="Atabook" /></a>&nbsp;&nbsp;
+  ‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=itsritsu&label=visitors&color=8da750" alt="visitors" /> ‧₊˚ ⋅&nbsp;&nbsp;
+  <a href="https://itsritsu.straw.page/"><img align="middle" src="https://cdn.corenexis.com/f/dbC6sQk8aeJ.png" width="80" alt="Strawpage" /></a>
 </p>
 
 </div>
