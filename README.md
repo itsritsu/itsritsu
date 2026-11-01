@@ -1,6 +1,4 @@
 <div align="center">
-  
-# ─── ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ───
 
 <p align="center">
   <img src="https://cdn.corenexis.com/f/gr2vjFdZdxZ.png" width="900" alt="header decoration" />
